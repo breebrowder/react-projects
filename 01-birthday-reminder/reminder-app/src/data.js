@@ -36,4 +36,4 @@ export default [
   },
 ];
 
-// an array of objectsn that represent people and their information
+// an array of objects that represent people and their information

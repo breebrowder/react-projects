@@ -4,7 +4,7 @@ const List = ({ people }) => {
   return (
     <>
       {people.map((person) => {
-        // map is used to iterate over an array and manipulate or change data items
+        // map iterates over array and manipulate or change data items
         const { id, name, age, image } = person;
         return (
           <article key={id} className='person'>
